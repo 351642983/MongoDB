@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hadoop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hbase"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mytool"/>
+	<classpathentry kind="lib" path="C:/Users/Halo/Desktop/查阅/java编程/工具包/mongodb/mongo-java-driver-3.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Halo/Desktop/查阅/java编程/工具包/mongodb/mongo-java-driver-3.4.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Halo/Desktop/查阅/java编程/工具包/mongodb/mongo-java-driver-3.4.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
